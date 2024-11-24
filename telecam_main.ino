@@ -10,15 +10,15 @@
 #define TEAM = 'Neofetch'
 
 
-const char* ssid = "SRM";
-const char* password = "SRM@hostels";
+const char* ssid = "*********";
+const char* password = "*********";
 const int PIR_SENSOR_OUTPUT_PIN = 13;  /* PIR sensor O/P pin */
 int warm_up;
 
 
-String BOTtoken = "7547283694:AAGZax6_pZzN_KTyRcG6goZo1OcDeXuA1ug";  // Bot Token 
+String BOTtoken = "*********:*******************";  // Bot Token 
 
-String CHAT_ID = "7546122942";
+String CHAT_ID = "***********";
 
 bool sendPhoto = false;
 
