@@ -33,7 +33,7 @@ now change the Bottoken and ChatID variables with your own Telegram bot token an
     |ESP-32 CAM |PIR (HC-SR501) |
     |-------    |-------        |
     |3.3V       |VCC            |
-    |OUT        |GPIO13         |
+    |GPIO13     |OUT            |
     |GND        |GND            |
     
     |ESP-32 CAM |ESP-32 CAM |
